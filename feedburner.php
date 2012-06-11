@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: FeedBurner FeedSmith Mod
-Plugin URI:
+Plugin URI: https://github.com/interconnectit/feedburner
 Description: This is a plugin originally authored by <a href="http://www.orderedlist.com/">Steve Smith</a>. The modification allows you to redirect feeds for all post type and taxonomy archives both default and custom.
-Author: Steve Smith, Jiayu (James) Ji, Modified by Robert O'Rourke
+Author: Steve Smith, Jiayu (James) Ji, Robert O'Rourke
 Author URI: http://interconnectit.com
-Version: 1.0.2
+Version: 1.0.1
 */
 
 /*
